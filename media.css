@@ -1,0 +1,275 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+.custom_nav ul li a {
+    padding: 7px 0!important;
+    font-size: 6px;
+}
+.nav-link {
+    /* display: block; */
+    width: 16%;
+}
+.custom_banner h1 {
+    font-size: 16px;
+    padding-top: 27px;
+}
+.custom_banner p {
+    line-height: 19px;
+    word-spacing: 0px;
+    padding-bottom: 5px;
+    font-size: 13px;
+}
+.button__ {
+    padding: 0px 7px;
+        margin-left: -4px;
+    font-size: 13px;
+}
+.custom_button {
+    padding-bottom: 38px;
+}
+.content p {
+    padding-top: 15px;
+    padding-bottom: 0px;
+        font-size: 13px;
+}
+
+.custom_subbanner p {
+    font-size: 16px;
+}
+.box {
+    margin-bottom: 11px;
+}
+.custom_subbanner h1 {
+    font-size: 20px;
+}
+.content {
+    padding-top: 39px;
+}
+.content h1 {
+    font-size: 21px;
+}
+.custom_img {
+    padding-left: 25%;
+    padding-top: 80%;
+}
+.cus_pad {
+    padding-bottom: 26px;
+}
+.text-muted {
+    font-size: 13px;
+}
+
+.button____ {
+    margin: 0px 27%;
+    
+}
+.png {
+    padding-top: 42px;
+    padding-bottom: 47px;
+}
+.custom_row {
+    padding-bottom: 29px;
+}
+.btn__ {
+    padding-bottom: 33px;
+}
+footer {
+
+    padding: 19px 0px;
+}
+p {
+  
+    margin-bottom: 0px;
+    font-size: 12px;
+}
+.i {
+    padding-left: 11px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ }
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+.custom_nav ul li a {
+    padding:11px 0!important;
+        font-size: 11px;
+}
+.content h1 {
+    font-size: 38px;
+}
+.content p {
+   padding-bottom: 8px;
+}
+.btn__ {
+    padding-bottom: 53px;
+}
+.custom_row {
+    padding-bottom: 47px;
+}
+
+.nav-link {
+    /* display: block; */
+    width: 16%;
+}
+.custom_banner h1 {
+    font-size: 42px;
+    padding-top: 48px;
+        padding-bottom: 10px;
+}
+.custom_subbanner h1 {
+    font-size: 14px;
+}
+.custom_subbanner p {
+    font-size: 17px;
+}
+.custom_subbanner h2 {
+    padding-top: 21px;
+    margin-left: -27px;
+}
+.content {
+    padding-top: 1px;
+    padding-bottom: 6px;
+}
+.custom_img {
+    padding-left: 31%;
+    padding-top: 73%;
+}
+.content h1 {
+    padding-top: 13px;
+}
+.text {
+    font-size: 15px;
+    word-spacing: 3px;
+}
+.text-muted {
+    font-size: 13px;
+}
+.button____ {
+    margin: 0px 20%;
+}
+.png {
+    padding-top: 61px;
+    padding-bottom: 57px;
+}
+footer {
+    padding: 19px 7px;
+}
+.i {
+    padding-left: 3px;
+    font-size: 17px;
+}
+p {
+    font-size: 13px;
+    letter-spacing: 3px;
+}
+
+
+
+
+
+
+
+
+ }
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+.custom_nav ul li a {
+    padding:11px 0!important;
+        font-size: 15px;
+}
+.i {
+    padding-left: 10px;
+}
+p {
+    font-size: 13px;
+}
+.nav-link {
+    /* display: block; */
+    width: 16%;
+}
+.custom_banner h1 {
+    font-size: 35px;
+    padding-top: 64px;
+}
+.custom_banner p {
+    line-height: 20px;
+    word-spacing: 3px;
+    padding-bottom: 21px;
+    font-size: 14px;
+}
+.content {
+    padding-top: 8px;
+    padding-bottom: 0px;
+}
+.custom_img {
+    padding-top: 50%;
+}
+.content h1 {
+    padding-top: 34px;
+}
+.content p {
+    padding-bottom: 21px;
+    font-size: 13px;
+}
+.cus_pad {
+    padding-bottom: 23px;
+}
+.text-muted {
+    font-size: 13px;
+    padding-bottom: 32px;
+}
+.png {
+    padding-top: 47px;
+        padding-bottom: 57px;
+}
+footer {
+    padding: 26px 0px;
+}
+.custom_subbanner h1 {
+    font-size: 18px;
+}
+.custom_subbanner p {
+    font-size: 16px;
+}
+
+
+
+
+
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    .button____ {
+    margin: 0px 28%;
+}
+.custom_banner h1 {
+    font-size: 51px;
+        padding-top: 92px;
+}
+.content p {
+    padding-top: 12px;
+    padding-bottom: 7px;
+    font-size: 13px;
+}
+.cus_pad {
+    padding-bottom: 33px;
+}
+
+ }
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { ... }
