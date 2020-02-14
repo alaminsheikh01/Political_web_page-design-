@@ -1,13 +1,19 @@
 /* Extra small devices (portrait phones, less than 576px)*/
 @media (max-width: 575.98px) { 
 .custom_nav ul li a {
-    padding: 7px 21px!important;
-    font-size: 9px;
+      padding: 4px 2px!important;
+    font-size: 16px;
 }
-.nav-link {
-    /* display: block; */
-    width: 31%;
-}
+.custom_nav ul li{
+        transition: .5s;
+        padding: 2px 0;
+    }
+    .custom_nav ul li:hover{
+        color: red;
+    }
+    .custom_nav ul li a{
+        display: inline-block;
+    } 
 .custom_banner h1 {
     font-size: 18px;
     padding-top: 27px;
