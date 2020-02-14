@@ -23,12 +23,12 @@
     line-height: 19px;
     word-spacing: 0px;
     padding-bottom: 5px;
-    font-size: 13px;
+    font-size: 16px;
 }
 .button__ {
-    padding: 0px 7px;
-        margin-left: -4px;
-    font-size: 13px;
+   padding: 4px 7px;
+    margin-left: -4px;
+    font-size: 16px;
 }
 .custom_button {
     padding-bottom: 38px;
@@ -36,7 +36,10 @@
 .content p {
     padding-top: 15px;
     padding-bottom: 0px;
-        font-size: 13px;
+        font-size: 16px;
+}
+    .img-fluid {
+    margin-top: 13px;
 }
 
 .custom_subbanner p {
